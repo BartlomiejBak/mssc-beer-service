@@ -1,3 +1,3 @@
 # MSSC Beer Service
 
-Spring Boot Mcroservice example
+Spring Boot Microservice example
